@@ -15,4 +15,4 @@ This is a simple Python script to organize files in the Downloads folder by movi
 Run the following command to organize the files in the Downloads folder:
 
 ```bash
-python file_organizer.py
+python3 file_organizer.py
